@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'pick a service',
+      title: 'Noteefy',
       initialRoute: '/',
       onGenerateRoute: CustomNavigator.controller,
       themeMode: ThemeMode.light,

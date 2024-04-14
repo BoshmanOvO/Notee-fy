@@ -1,6 +1,7 @@
 
 
 import '../core/app_imports.dart';
+import '../features/onboarding/screens/splash_screen.dart';
 import 'app_pages.dart';
 
 final kNavigatorKey = GlobalKey<NavigatorState>();
